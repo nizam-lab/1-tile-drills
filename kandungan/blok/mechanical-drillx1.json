@@ -2,7 +2,7 @@
     "type":"Drill",
     "name":"Mechanical Drill x1",
     "category": "production",
-    "health": 40,
+    "health": 400,
     "tier": 2,
     "drillTime": 600,
     "size": 1,
